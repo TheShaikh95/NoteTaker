@@ -14,3 +14,5 @@ git clone https://github.com/TheShaikh95/NoteTaker.git
 Navigate to the developer-profile-generator folder using the command prompt.
 
 Run npm install to install all dependencies. To use the application locally, run node server.js in your CLI, and then open http://localhost:3000 in your preferred browswer
+
+App also is deployed on heroku https://note-taker-afnan.herokuapp.com/
